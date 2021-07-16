@@ -1,6 +1,6 @@
 # Bower Glob Resolver
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/i-like-robots/bower-glob-resolver/blob/master/LICENSE) [![Build Status](https://travis-ci.org/i-like-robots/bower-glob-resolver.svg?branch=master)](https://travis-ci.org/i-like-robots/bower-glob-resolver) [![npm version](https://img.shields.io/npm/v/bower-glob-resolver.svg?style=flat)](https://www.npmjs.com/package/bower-glob-resolver) [![Greenkeeper badge](https://badges.greenkeeper.io/i-like-robots/bower-glob-resolver.svg)](https://greenkeeper.io/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Financial-Times/bower-glob-resolver/blob/main/LICENSE) [![Build Status](https://travis-ci.org/Financial-Times/bower-glob-resolver.svg?branch=main)](https://travis-ci.org/i-like-robots/bower-glob-resolver) [![npm version](https://img.shields.io/npm/v/bower-glob-resolver.svg?style=flat)](https://www.npmjs.com/package/bower-glob-resolver) [![Greenkeeper badge](https://badges.greenkeeper.io/i-like-robots/bower-glob-resolver.svg)](https://greenkeeper.io/)
 
 A [resolver plugin] for [Bower] which enables the use of multiple `bower.json` files which are found using a [glob pattern]. This is useful for codebases which contain multiple packages or have dependencies which are not installed using Bower.
 
